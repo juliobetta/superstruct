@@ -3,6 +3,8 @@
     "dev-expression",
     "transform-async-to-generator",
     "transform-es2015-modules-commonjs",
-    "transform-object-rest-spread"
+    "transform-object-rest-spread",
+    "transform-es2015-block-scoping",
+    "transform-es2015-arrow-functions"
   ]
 }
