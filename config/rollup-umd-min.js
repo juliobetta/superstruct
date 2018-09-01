@@ -24,6 +24,7 @@ config.plugins = [
       'transform-es2015-arrow-functions',
       'babel-plugin-transform-es2015-block-scoping',
       'babel-plugin-transform-es2015-arrow-functions',
+      'babel-plugin-transform-es2015-template-literals',
       'transform-async-to-generator',
       'transform-object-rest-spread',
     ],
